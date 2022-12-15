@@ -1,7 +1,7 @@
 
 # Express-Validator
 
-Built this project to connect endpoints created using Node Js with html to store the data which is Validated.
+Built this project to connect endpoints created using Node Js with html to store the validated data to database and then login functinality.
 
 Main purpose to build this is to learn the use of Express-Validator package in Node Js and how to connect Html form with Node Js.
 
