@@ -1,5 +1,5 @@
 
-# Express-Validator
+# form-validation
 
 Built this project to connect endpoints created using Node Js with html to store the validated data to database and then login functinality.
 
